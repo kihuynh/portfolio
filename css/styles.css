@@ -1,7 +1,12 @@
 img {
   width: 400px;
   height: 350px;
+  border-radius: 15%;
 }
+
+/*body {
+  background-color: #ffd1c2;
+} */
 
 li {
   list-style-type: none;
@@ -11,13 +16,16 @@ li, p {
   font-family: 'Open Sans';
   font-size: 16px;
 }
-]
+
 h1 {
   font-size: 50px;
   font-family: 'Comfortaa';
   font-weight: bold;
 }
 
+h3 {
+  text-align: center;
+}
 h4 {
   font-size: 40px;
   font-family: 'Comfortaa';
