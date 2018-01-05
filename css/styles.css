@@ -1,6 +1,6 @@
 img {
-  width: 40%;
-  height: 40%;
+  width: 400px;
+  height: 350px;
 }
 
 li {
@@ -15,14 +15,16 @@ h4 {
   font-size: 40px;
 }
 
-a {
-  text-decoration: none;
-}
-
 a:visited {
-  color: ;
+  color: black;
+
 }
 
 a:hover {
-  color:
+  color: pink;
+  text-decoration: none;
+}
+
+a {
+  padding: 0px;
 }
