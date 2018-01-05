@@ -2,6 +2,7 @@ html, body {
   height: 100%;
   margin: 0px;
 }
+
 img {
   width: 400px;
   height: 350px;
@@ -35,6 +36,7 @@ li, p {
 ol, ul {
   padding-left: 0px;
 }
+
 p, ul, ol {
   text-align: center;
 }
@@ -42,6 +44,7 @@ p, ul, ol {
 .col-md-4 {
   padding: 0px;
 }
+
 h1 {
   font-size: 60px;
   font-family: 'Comfortaa';
@@ -66,6 +69,7 @@ h2 {
   background-color: white;
   padding: 15px;
 }
+
 h3 {
   text-align: center;
 }
