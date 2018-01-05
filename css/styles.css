@@ -38,3 +38,11 @@ a {
   padding: 0px;
   font-family: 'Comfortaa';
 }
+
+.nametofu {
+  width: auto;
+  height: auto;
+}
+.backinfo {
+  float: left;
+}
