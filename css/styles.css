@@ -1,15 +1,19 @@
+html, body {
+  height: 100%;
+  margin: 0px;
+}
 img {
   width: 400px;
   height: 350px;
   border-radius: 15%;
 }
 
-/*body {
+body {
   background-color: #ffd1c2;
-} */
-
+}
 .container {
-  background-color: ;
+  background-color: #fff4f0;
+  min-height: 100%;
 }
 li {
   list-style-type: none;
@@ -20,8 +24,15 @@ li, p {
   font-size: 16px;
 }
 
-p, ol {
+ol, ul {
+  padding-left: 0px;
+}
+p, ul, ol {
   text-align: center;
+}
+
+.col-md-4 {
+  padding: 0px;
 }
 h1 {
   font-size: 60px;
@@ -33,9 +44,18 @@ h1 {
 .subtitle {
   padding: 15px 0px 0px 0px;
 }
+
+h2 {
+  text-align: center;
+  font-family: 'Comfortaa';
+  font-size: 45px;
+  background-color: white;
+  width: 100%;
+}
 h3 {
   text-align: center;
 }
+
 h4 {
   font-size: 40px;
   font-family: 'Comfortaa';
@@ -61,8 +81,9 @@ a {
 .nametofu {
   padding: 0px 50px 0px 25px;
 }
+
 .backinfo {
-  float: left;
+  float: right;
 }
 
 #middle {
@@ -70,5 +91,5 @@ a {
 }
 
 #projects {
-  padding: 50px 0px 50px 0px;
+  padding: 50px 10px 50px 10px;
 }
