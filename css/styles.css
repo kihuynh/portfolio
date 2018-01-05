@@ -8,6 +8,9 @@ img {
   background-color: #ffd1c2;
 } */
 
+.container {
+  background-color: ;
+}
 li {
   list-style-type: none;
 }
@@ -17,10 +20,14 @@ li, p {
   font-size: 16px;
 }
 
+p, ol {
+  text-align: center;
+}
 h1 {
   font-size: 50px;
   font-family: 'Comfortaa';
   font-weight: bold;
+  text-align: center;
 }
 
 h3 {
@@ -30,6 +37,7 @@ h4 {
   font-size: 40px;
   font-family: 'Comfortaa';
   font-weight: bold;
+  text-align: center;
 }
 
 a:visited {
