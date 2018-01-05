@@ -24,12 +24,15 @@ p, ol {
   text-align: center;
 }
 h1 {
-  font-size: 50px;
+  font-size: 60px;
   font-family: 'Comfortaa';
   font-weight: bold;
   text-align: center;
 }
 
+.subtitle {
+  padding: 15px 0px 0px 0px;
+}
 h3 {
   text-align: center;
 }
@@ -56,14 +59,14 @@ a {
 }
 
 .nametofu {
-  padding: 0px 50px 0px 0px;
+  padding: 0px 50px 0px 25px;
 }
 .backinfo {
   float: left;
 }
 
 #middle {
-  margin: 100px 0px 50px 0px;
+  margin: 50px 0px 50px 0px;
 }
 
 #projects {
