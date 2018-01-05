@@ -12,6 +12,10 @@ img {
   margin: auto;
 }
 
+img:hover {
+  opacity: 0.6;
+}
+
 body {
   background-color: #ffd1c2;
 }
@@ -43,6 +47,12 @@ h1 {
   font-family: 'Comfortaa';
   font-weight: bold;
   text-align: center;
+  padding: 20px 0px 15px 0px;
+  border-color: white;
+  border-style: solid;
+  border-left: none;
+  border-right: none;
+  border-width: 5px;
 }
 
 .subtitle {
@@ -54,7 +64,7 @@ h2 {
   font-family: 'Comfortaa';
   font-size: 45px;
   background-color: white;
-  width: 100%;
+  padding: 15px;
 }
 h3 {
   text-align: center;
@@ -80,6 +90,7 @@ a:hover {
 a {
   padding: 0px;
   font-family: 'Comfortaa';
+  color: lightblue;
 }
 
 .nametofu {
@@ -98,5 +109,5 @@ a {
 }
 
 #projects {
-  padding: 50px 10px 50px 10px;
+  padding: 25px 10px 50px 10px;
 }
