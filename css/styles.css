@@ -40,9 +40,16 @@ a {
 }
 
 .nametofu {
-  width: auto;
-  height: auto;
+  padding: 0px 50px 0px 0px;
 }
 .backinfo {
   float: left;
+}
+
+#middle {
+  margin: 100px 0px 50px 0px;
+}
+
+#projects {
+  padding: 50px 0px 50px 0px;
 }
