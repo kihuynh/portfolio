@@ -37,8 +37,9 @@ ol, ul {
   padding-left: 0px;
 }
 
-p, ul, ol {
+p, ul, ol, li {
   text-align: center;
+  padding: 2px;
 }
 
 .col-md-4 {
@@ -79,6 +80,13 @@ h4 {
   font-family: 'Comfortaa';
   font-weight: bold;
   text-align: center;
+  border-style: solid;
+  border-top: none;
+  border-right: none;
+  border-left:none;
+  border-width: 1px;
+  padding-bottom: 5px;
+
 }
 
 a:visited {
@@ -94,7 +102,7 @@ a:hover {
 a {
   padding: 0px;
   font-family: 'Comfortaa';
-  color: lightblue;
+  color: #8ace68;
 }
 
 .nametofu {
