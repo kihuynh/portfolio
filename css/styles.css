@@ -7,13 +7,21 @@ li {
   list-style-type: none;
 }
 
-h3 {
-  font-size: 30px;
-  text-align: center;
+li, p {
+  font-family: 'Open Sans';
+  font-size: 16px;
+}
+]
+h1 {
+  font-size: 50px;
+  font-family: 'Comfortaa';
+  font-weight: bold;
 }
 
 h4 {
   font-size: 40px;
+  font-family: 'Comfortaa';
+  font-weight: bold;
 }
 
 a:visited {
@@ -28,4 +36,5 @@ a:hover {
 
 a {
   padding: 0px;
+  font-family: 'Comfortaa';
 }
